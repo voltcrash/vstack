@@ -30,8 +30,8 @@ Some skills call others. Install the ones they need too:
 
 ```bash
 git clone https://github.com/t3dotgg/vstack
-cp -R tstack/skills/* ~/.claude/skills/   # Claude Code
-cp -R tstack/skills/* ~/.codex/skills/    # Codex
+cp -R vstack/skills/* ~/.claude/skills/   # Claude Code
+cp -R vstack/skills/* ~/.codex/skills/    # Codex
 ```
 
 ## Requirements
